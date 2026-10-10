@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": "package.json",
+      "size": 295,
+      "sha256": "ac8af9741dddf0cb28227db5ce45d3bcc0bb350efb306579c07bf7049b067003"
+    },
+    {
+      "path": "server/local.mjs",
+      "size": 3479,
+      "sha256": "e0a3aeed70035c2b6ba88e94b170a65dadc9ab5c2f006e4a3872b1b5443fcf45"
+    },
+    {
+      "path": "server/worker.js",
+      "size": 967859,
+      "sha256": "95fc302fc2db7fd7e451bbcb9bc055d143b022a826bd2cd2f66111b5912c9efc"
+    },
+    {
+      "path": "db/0000.sql",
+      "size": 106,
+      "sha256": "1f9f31235f17ab67bdcb762b58dbd71a2ab4e84de4d1c3c98f390a08ce4eb066"
+    },
+    {
+      "path": "scripts/update-and-start.mjs",
+      "size": 7390,
+      "sha256": "cf59075429fc879da92fd1592d789e6b2a2431fbbd7d6d24229be2b0461ea295"
+    },
+    {
+      "path": "启动平台.cmd",
+      "size": 206,
+      "sha256": "c1431479d52a56bed18d17eb93626787c5a8e79fa1a8078975a41d47a0f7aefd"
+    },
+    {
+      "path": "启动平台.command",
+      "size": 199,
+      "sha256": "68cfc821690cb3e98f27697ecc8e56924b19c91fa19cfba4ace433acb78a1afa"
+    },
+    {
+      "path": "更新并启动.cmd",
+      "size": 187,
+      "sha256": "1483b6625fa46454bfc8d4cddf6677e20ce3df21e553f13641ac667cef62dfe8"
+    },
+    {
+      "path": "更新并启动.command",
+      "size": 190,
+      "sha256": "14b26de12b699ff47d0bb3bccf902d60bfdf754fbf67272a6a349c5888b47e14"
+    },
+    {
+      "path": "使用说明.md",
+      "size": 4472,
+      "sha256": "50771f2812a40fd6cd1a309229979ea12f39c293ccfabf85ab21a39fd450fa0f"
+    }
+  ]
+}

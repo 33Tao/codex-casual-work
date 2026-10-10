@@ -1,1 +1,14 @@
-{"name":"game-ux-quality-local","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22.13.0"},"scripts":{"start":"node server/local.mjs"}}
+{
+  "name": "game-ux-quality-local",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server/local.mjs",
+    "update": "node scripts/update-and-start.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
