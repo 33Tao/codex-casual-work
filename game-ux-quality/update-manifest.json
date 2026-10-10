@@ -13,8 +13,8 @@
     },
     {
       "path": "server/worker.js",
-      "size": 967859,
-      "sha256": "95fc302fc2db7fd7e451bbcb9bc055d143b022a826bd2cd2f66111b5912c9efc"
+      "size": 971654,
+      "sha256": "d59bbf8cb62b16436bb8fe8cc59f2a04c038526c88fc6d6aed58382fa4bb685a"
     },
     {
       "path": "db/0000.sql",
